@@ -1,0 +1,13 @@
+# Site settings
+title: Mobile First Century
+email: contact@mobilefirstcentury.com
+description: > # this means to ignore newlines until "baseurl:"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+exclude: [deploy.sh, gulpfile.js, package.json, README.md, node_modules]
+
+twitter_username: rachidbch
+github_username: rachidbch
+
+# Build settings
+markdown: kramdown   
