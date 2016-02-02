@@ -1,0 +1,22 @@
+{
+  "name": "creative-theme-jekyll",
+  "version": "1.0.0",
+  "description": "A Jekyll implementation of the [Creative Theme](http://startbootstrap.com/template-overviews/creative/) template by [Start Bootstrap](http://startbootstrap.com).",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/volny/creative-theme-jekyll.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/volny/creative-theme-jekyll/issues"
+  },
+  "homepage": "https://github.com/volny/creative-theme-jekyll#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0"
+  }
+}
