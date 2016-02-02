@@ -6,8 +6,8 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 exclude: [deploy.sh, gulpfile.js, package.json, README.md, node_modules]
 
-twitter_username: rachidbch
-github_username: rachidbch
+twitter_username: mobilefirstcentury
+github_username: mobilefirstcentury
 
 # Build settings
 markdown: kramdown   
